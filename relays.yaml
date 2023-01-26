@@ -225,3 +225,4 @@ relays:
   - wss://nostr.localhost.re
   - wss://nostr.coinsamba.com.br
   - wss://deconomy-netser.ddns.net:2121
+  - wss://nostr.lordkno.ws
