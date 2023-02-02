@@ -14,6 +14,7 @@ relays:
   - wss://nostr-relay.untethr.me
   - wss://nostr-relay.lnmarkets.com
   - wss://nostr.unknown.place
+  - wss://nostr.lordkno.ws
   - wss://nostr.semisol.dev
   - wss://nostr-pub.semisol.dev
   - wss://nostr-verified.wellorder.net
